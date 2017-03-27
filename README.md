@@ -1,2 +1,3 @@
 # HelloWorld
-SampleProject
+#SampleProject
+print "Hello World"
